@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.leftNav {
+  margin: 50px;
+  padding-left: 100px;
+}
+
+.rightNav {
+  margin: 50px;
+  padding-right: 200px;
+}
